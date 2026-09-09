@@ -1,4 +1,4 @@
-##About Me
+## About Me
 
 I am an Information Technology student in my fourth year and a Full Stack Web Developer who likes building web applications that are responsive and high-performing. I like converting ideas into useful and aesthetically pleasing digital products.
 
